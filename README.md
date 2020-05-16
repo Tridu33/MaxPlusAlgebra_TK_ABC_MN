@@ -3,7 +3,7 @@ MaxPlusAlgebra  Solve "Buffer capacity unlimited serial line problem" By Octave 
 
 ​	**在精确计算优化目的上，在不同平台生产可执行程序目的上，或者多语言调用的使用目的上，Octave不是一个最佳方案。但是“Octave”是一个实验最佳的开源矩阵实验室，Octave本质是在winGW 用C/C++语言包装的科学计算软件Matlab开源版，为了跨编程语言，跨平台应用，本文还写了Octave算法包等效的“C/C++语言算法包”。**
 
-### Octave算法包简短说明书
+### [Octave算法包简短说明书](https://v.youku.com/v_show/id_XNDY3NDMwODkxNg==.html)
 
 **如果使用Octave ，直接`pkg install max-plus-ABC.tar.gz`,然后`pkg list` 查看“max-plus-abc”包已经安装，文件浏览安装目录如下：*C:\Octave\OCTAVE~1.0\mingw64\share\octave\packages\max-plus-abc-1.0*也可以查看算法包已经安装成功。**
 
@@ -13,7 +13,7 @@ MaxPlusAlgebra  Solve "Buffer capacity unlimited serial line problem" By Octave 
 
 **max-plus-ABC-octave\inst\run-Octave-m.bat**  双击就能运行`data`测试案例，相信聪明的你一看就懂。如果使用*TexMacs*写*Octave*的用户，可以打开这个文件MaxPlus-Algebra-package-introduce-TexMacs.tm，否则就算了，友情提示：Jupyter Notebook写Octave也不错。
 
-### C/C++语言算法包使用说明
+### [C/C++语言算法包使用说明](https://v.youku.com/v_show/id_XNDY3NDMxMTk0OA==.html)
 
   **一开始打算Octave混合编程的，但实际上远没有Matlab开发地方便，源码级别学习，看完Docs是不够的,感兴趣的人请自行阅读：**
 
