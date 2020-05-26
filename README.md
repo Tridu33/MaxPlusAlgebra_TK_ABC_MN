@@ -23,11 +23,11 @@ MaxPlusAlgebra  Solve "Buffer capacity unlimited serial line problem" By Octave 
 
 **双击MaxPlus_ABC.exe，选定安装目录，然后卸载只需要删除安装目录相应文件夹，绿色卸载，exe相应演示操作简单易懂，不加赘述，效果图：**
 
-![1](https://github.com/Tridu33/MaxPlusAlgebra_TK_ABC_MN/blob/master/pic/1.png)
+![1](./pic/1.png)
 
 **正常使用相应功能即可：**
 
- ![1](https://github.com/Tridu33/MaxPlusAlgebra_TK_ABC_MN/blob/master/pic/2.png)
+ ![1](./pic/2.png)
 
 **相关开发者想修改T矩阵可以在T.txt文件输入需要的矩阵格式，项目中如果需要使用相关算法二次开发请自行查看“MaxPlus_ABC.cpp”。**
 
