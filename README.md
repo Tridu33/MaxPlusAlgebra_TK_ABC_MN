@@ -40,5 +40,6 @@ MaxPlusAlgebra  Solve "Buffer capacity unlimited serial line problem" By Octave 
 **值得提的是，C/C++变成最大的好处是操作系统相关，可以统筹不同的编程语言，比如胶水语言pythoner请自行使用“pybing/SWIG/ctype/…”直接调用C/C++语言程序,或者说js用户可以Emscripten把C/C++需要用的部分代码编译为WASM模块，在网页端使用（main.ll就是MaxPlus_ABC.cpp编译出来的LLVM IR字节码），有需要的用户再整吧，就不再赘述了。**
 
  
+ PS：release放了我相关说明文档，要进一步研究这方面的人，可以自行取阅，如要交流，请邮 tridu33@qq.com
 
  
